@@ -1,9 +1,12 @@
 joblib
 streamlit
-pandas
+pandas==2.2.2
 seaborn
+numpy
 matplotlib
 streamlit_folium
 folium
-geopy
+geopy==2.4.1
 plotly
+scikit-learn==1.2.2
+xgboost==2.0.3
