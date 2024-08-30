@@ -2,8 +2,6 @@ numpy
 pandas==2.2.2
 flask
 streamlit
-gdal
-proj
 shapely
 cairo
 folium==0.17.0
