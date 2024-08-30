@@ -1,0 +1,9 @@
+joblib
+streamlit
+pandas
+seaborn
+matplotlib
+streamlit_folium
+folium
+geopy
+plotly
