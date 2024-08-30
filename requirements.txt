@@ -1,5 +1,11 @@
-Flask
+numpy
+pandas==2.2.2
+flask
 streamlit
+gdal
+proj
+shapely
+cairo
 folium==0.17.0
 geopandas==1.0.1
 geopy==2.4.1
@@ -9,9 +15,7 @@ ip2geotools==0.1.6
 joblib
 matplotlib
 matplotlib-inline
-numpy
 numpydoc
-pandas==2.2.2
 plotly
 python-json-logger
 requests
