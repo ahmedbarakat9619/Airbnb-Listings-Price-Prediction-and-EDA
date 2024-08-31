@@ -1,7 +1,7 @@
 numpy
 pandas==2.2.2
 flask
-pygdal==3.9.2
+pygdal
 libgdal==3.9.2
 gdal==3.9.2
 streamlit
