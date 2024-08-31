@@ -1,6 +1,7 @@
 numpy
 pandas==2.2.2
 flask
+gdal
 streamlit
 folium==0.17.0
 geopandas==1.0.1
