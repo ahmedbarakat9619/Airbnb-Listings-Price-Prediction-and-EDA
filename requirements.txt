@@ -1,7 +1,8 @@
 numpy
 pandas==2.2.2
 flask
-pygdal==3.6.2.*
+pygdal==3.9.2
+libgdal==3.9.2
 gdal==3.9.2
 streamlit
 folium==0.17.0
